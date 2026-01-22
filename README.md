@@ -29,5 +29,4 @@ The project focuses on deploying a basic yet realistic cloud infrastructure usin
 Designed and deployed a cloud infrastructure using Amazon EC2, S3, IAM, RDS, and Lambda, with monitoring via CloudWatch, alerts using SNS, and auditing through CloudTrail.
 
 ## Author
-Your Name  
 GitHub: https://github.com/Bathrul
